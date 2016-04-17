@@ -112,6 +112,12 @@ p {
     background-color: #d99e40;
 }
 
+#aboutModal img{
+    border-radius: 240px;
+  -webkit-border-radius: 240px;
+  -moz-border-radius: 240px;
+}
+
 section {
     padding: 70px 0;
 }
