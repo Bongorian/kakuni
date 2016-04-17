@@ -65,6 +65,7 @@ p {
     font-size: 17px;
     line-height: 1.7;
     margin-bottom: 20px;
+    color: #eee;
 }
 
 .kakuni{
@@ -99,7 +100,7 @@ p {
 }
 
 .text-dark {
-    color: #111;
+    color: #eee;
 }
 
 .text-primary {
