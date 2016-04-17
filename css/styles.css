@@ -8,6 +8,17 @@ http://www.bootstrapzero.com
 @import url(https://fonts.googleapis.com/css?family=Questrial);
 @import url(http://fonts.googleapis.com/css?family=Dancing+Script:700);
 
+
+@font-face {
+  font-family: 'Misaki';
+  src: url('/fonts/MisakiGothic.woff') format('woff'),
+       url('/fonts/MisakiGothic.ttf') format('truetype'),
+       url('/fonts/MisakiGothic.svg#MisakiGothic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 html,
 body {
     width: 100%;
@@ -47,7 +58,7 @@ a:focus {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
+    font-family: 'MisakiGothic';
 }
 
 p {
