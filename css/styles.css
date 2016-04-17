@@ -300,6 +300,7 @@ footer {
         -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
+        display: none;
     }
 
     header .header-content .inner {
