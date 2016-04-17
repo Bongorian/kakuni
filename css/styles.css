@@ -10,7 +10,7 @@ http://www.bootstrapzero.com
 
 
 @font-face {
-  font-family: 'Misaki';
+  font-family: 'MisakiGothic';
   src: url('fonts/MisakiGothic.woff') format('woff'),
        url('fonts/MisakiGothic.ttf') format('truetype'),
        url('fonts/MisakiGothic.svg#MisakiGothic') format('svg');
@@ -58,7 +58,7 @@ a:focus {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Misaki';
+    font-family: 'MisakiGothic';
 }
 
 p {
