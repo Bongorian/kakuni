@@ -135,7 +135,7 @@ footer {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #181818;
+    background-color: #CC512E;
 }
 .navbar-default .navbar-toggle, .navbar-default .navbar-collapse {
     border-color: transparent;
