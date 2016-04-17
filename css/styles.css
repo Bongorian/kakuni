@@ -297,9 +297,9 @@ footer {
         position: absolute;
         top: 50%;
         padding: 0 50px;
-        -webkit-transform: translateY(-50%);
+        /*-webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
-        transform: translateY(-50%);
+        transform: translateY(-50%);*/
         display: none;
     }
 
@@ -320,10 +320,6 @@ footer {
         font-size: 18px;
     }
 
-    #video-background{
-        display: none;
-        z-index: -99;
-    }
     
     section {
         min-height: 600px;
