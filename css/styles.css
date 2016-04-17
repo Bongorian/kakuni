@@ -321,6 +321,7 @@ footer {
 
     #video-background{
         display: none;
+        z-index: -99;
     }
     
     section {
