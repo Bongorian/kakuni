@@ -189,6 +189,11 @@ footer {
     background-color: transparent;
 }
 
+.icon-lg{
+    width:128px;
+    height:128px;
+}
+
 
 @media(min-width:768px) {
     .navbar-default {
