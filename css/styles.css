@@ -318,6 +318,10 @@ footer {
         max-width: 80%;
         font-size: 18px;
     }
+
+    #video-background{
+        display: none;
+    }
     
     section {
         min-height: 600px;
