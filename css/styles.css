@@ -50,6 +50,9 @@ a {
     -moz-transition: all .35s;
     transition: all .35s;
 }
+.navbar-brand{
+   font-family: 'MisakiGothic'; 
+}
 
 a:hover,
 a:focus {
