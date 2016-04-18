@@ -50,9 +50,6 @@ a {
     -moz-transition: all .35s;
     transition: all .35s;
 }
-.navbar-brand{
-   font-family: 'MisakiGothic'; 
-}
 
 a:hover,
 a:focus {
@@ -60,7 +57,7 @@ a:focus {
     outline: 0; 
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6,.navbar-brand {
     font-family: 'MisakiGothic';
     color: #777;
 }
