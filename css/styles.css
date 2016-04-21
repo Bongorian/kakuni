@@ -11,9 +11,9 @@ http://www.bootstrapzero.com
 
 @font-face {
   font-family: 'MisakiGothic';
-  src: url('fonts/MisakiGothic.woff') format('woff'),
-       url('fonts/MisakiGothic.ttf') format('truetype'),
-       url('fonts/MisakiGothic.svg#MisakiGothic') format('svg');
+  src: url('/fonts/MisakiGothic.woff') format('woff'),
+       url('/fonts/MisakiGothic.ttf') format('truetype'),
+       url('/fonts/MisakiGothic.svg#MisakiGothic') format('svg');
 }
 
 
