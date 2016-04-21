@@ -14,8 +14,6 @@ http://www.bootstrapzero.com
   src: url('fonts/MisakiGothic.woff') format('woff'),
        url('fonts/MisakiGothic.ttf') format('truetype'),
        url('fonts/MisakiGothic.svg#MisakiGothic') format('svg');
-  font-weight: normal;
-  font-style: normal;
 }
 
 
@@ -58,6 +56,11 @@ a:focus {
 }
 
 h1,h2,h3,h4,h5,h6, {
+    font-family: 'MisakiGothic';
+    color: #777;
+}
+
+#bs-navbar a{
     font-family: 'MisakiGothic';
     color: #777;
 }
